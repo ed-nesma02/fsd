@@ -3,8 +3,7 @@
 function App() {
 
   return (
-    <>
-    </>
+    <></>
   )
 }
 
