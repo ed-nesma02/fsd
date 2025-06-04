@@ -1,3 +1,3 @@
 export const InfoBox = () => {
-  return <div>Button</div>
+  return <div>InfoBox</div>
 }
